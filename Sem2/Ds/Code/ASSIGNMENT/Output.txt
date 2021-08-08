@@ -1,0 +1,409 @@
+
+ Name:Krishant Chauhan
+ course:BCA 2A
+ Class Roll no.:-29
+ Single Linked List Program
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 1
+Enter the data of node :
+10
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 1
+Enter the data of node :
+20
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 1
+Enter the data of node :
+301
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 40
+Enter correct Option
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 1
+Enter the data of node :
+50
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 10
+Data is: 20
+Data is: 301
+Data is: 50
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 3
+Total Number of Nodes are : 4
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 4
+Enter the data to Insert at the Begning
+11
+Successfully Inserted at Begning
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 11
+Data is: 10
+Data is: 20
+Data is: 301
+Data is: 50
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 5
+Enter the data to Insert at the End
+66
+Successfully Inserted at Ending
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 11
+Data is: 10
+Data is: 20
+Data is: 301
+Data is: 50
+Data is: 66
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 6
+Enter the postion
+3
+Enter the data
+30
+Successfull Incerted at 3th Position
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 0
+Enter correct Option
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 11
+Data is: 10
+Data is: 30
+Data is: 20
+Data is: 301
+Data is: 50
+Data is: 66
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 7
+Successfully Decremented from the Begning
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 10
+Data is: 30
+Data is: 20
+Data is: 301
+Data is: 50
+Data is: 66
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 8
+Successfully Decremented from the Ending
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 10
+Data is: 30
+Data is: 20
+Data is: 301
+Data is: 50
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 9
+Enter the postion
+2
+Successfully Decremented 2 Position
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 2
+Data in List
+Data is: 10
+Data is: 20
+Data is: 301
+Data is: 50
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+ 10
+Enter the Element to find
+20
+yes
+
+1.Append
+2.Display
+3.Count Node
+4.Insert At Begning
+5.Insert at End
+6.Insert at Nth Postion
+7.Delete From Begning
+8.Delete From End
+9.Delete at nth Position
+10.Search the Element
+11.Exit
+
+Enter your choice
+  11

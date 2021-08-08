@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Important.Data/MY_Study/BCA/sem3/C/Program1 Factorial Using Recursion/Factorial.c
+stdio.h
+-
+stdlib.h
+-
+

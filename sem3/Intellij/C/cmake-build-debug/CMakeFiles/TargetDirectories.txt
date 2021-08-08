@@ -1,0 +1,3 @@
+D:/Important.Data/MY_Study/Intellij/C/cmake-build-debug/CMakeFiles/C.dir
+D:/Important.Data/MY_Study/Intellij/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Important.Data/MY_Study/Intellij/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
