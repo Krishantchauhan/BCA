@@ -4,24 +4,18 @@
   width: 100;
 }
 
-.one{
-  border-
-}
+
 th{
   width: 100;
   padding: 5px;
 }
 
 .course{
-  text-align: center;
+  padding-left: 370px;
+  margin-bottom: 0px;
 }
 
-.lab{
+.room{
   text-align: center;
-  height: 50;
-}
-
-one{
-  height: 50;
-  text-align: center;
+  margin-left: 190px;
 }
