@@ -1,0 +1,2 @@
+rootProject.name = "Array_Adapter"
+include ':app'
