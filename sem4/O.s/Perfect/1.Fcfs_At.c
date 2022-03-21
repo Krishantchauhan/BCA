@@ -26,6 +26,7 @@ for ( i = 0; i < p; i++)
   else
     ct[i+1]=at[i]+bt[i];
 }
+
   for ( i = 0; i < p; i++)
   {
     wt[i]=0;

@@ -1,0 +1,56 @@
+<html>
+<head>
+  <style>
+    .div_1 {
+      align-content: center;
+      text-align: left;
+      background-color: lightcyan;
+      width: 30%;
+      height: 100%;
+      border-radius: 20px;
+      border: 3px solid red;
+      margin-left: 30%;
+    }
+
+    form {
+      padding: 20px;
+    }
+
+    input {
+      border: 2px solid orange;
+    }
+  </style>
+  <script type="text/javascript">
+    val pass1 = document.getElementsByName(pass);
+    val pass2 = document.getElementsByName(repass);
+    if (pass1 != pass2) {
+      alert("Retype password not matching");
+    }
+  </script>
+</head>
+
+<body bgcolor="lightgreen">
+  <div class="div_1">
+    <form>
+      <label> Username </label> <br>
+      <input type="text" name="name" required> <br>
+      <br>
+      <label> Phone number </label> <br>
+      <input type="number" name="PhoneNumber"> <br>
+      <label> Email</label> <br>
+      <input type="email" name="email" size=""> <br>
+      <label> Set Password </label> <br>
+      <input type="password" name="pass"> <br>
+      <label> Retype Password </label> <br>
+      <input type="password" name="repass"> <br> <br>
+      <label> Gender </label> <br>
+      &nbsp; <input type="radio" name="gender"> Male <br>
+      &nbsp; <input type="radio" name="gender"> Female <br>
+      &nbsp; <input type="radio" name="gender"> Other <br>
+      <br>
+      <input type="submit" name="submit">
+    </form>
+  </div>
+</body>
+
+</html>
