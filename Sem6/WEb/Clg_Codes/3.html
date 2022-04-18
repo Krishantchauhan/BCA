@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tables</title>
+
+    <script type="text/javascript">
+    function add_row(){
+    var x = document.getElementById("t1").insertRow(1);
+    var y = x.insertCell(0);
+    var z = x.insertCell(1);
+    var a = x.insertCell(2);
+
+    var b= document.createTextNode("500");
+    var c= document.createTextNode("Green");
+    var d= document.createTextNode("ad");
+
+    y.appendChild(b);
+    z.appendChild(c);
+    a.appendChild(d);
+}
+    </script>
+
+  </head>
+  <body>
+    <table border="" id="t1">
+      <thead>
+        <th>Number</th>
+        <th>Color</th>
+        <th>Country</th>
+      </thead>
+      <tr>
+        <td>200</td>
+        <td>Blue</td>
+        <td>USA</td>
+      </tr>
+      <tr>
+        <td>250</td>
+        <td>Red</td>
+        <td>France</td>
+      </tr>
+    </table><br>
+  <input type="button" value="Submit" onclick="add_row()">
+
+  </body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+  <script>
+  function  disp()
+    {
+    var fn = document.getElementById("form1");
+    for(i=0;i<fn.length;i++){
+    document.write(fn[i].value+"<br/>");
+    }
+  }
+  </script>
+  </head>
+
+  <body>
+
+  <form id="form1" method="post" >
+    <label for="">First Name</label>
+    <input type="text" name="p1"><br><br>
+
+    <label for="">Last Name</label>
+    <input  type="text" name="p2"><br><br>
+
+    <button type="button"  name="button" onclick="disp()">Submit</button>
+  </form>
+
+
+  </body>
+</html>
