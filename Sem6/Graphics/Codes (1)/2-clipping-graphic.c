@@ -23,7 +23,6 @@ int main()
 
 	cleardevice();
 
-
 	int bit1 = bit(x1,y1);
 	int bit2 = bit(x2,y2);
 
@@ -70,7 +69,6 @@ int bit(double x,double y)
 		if(x<x_min)
 		bits=bits+1;
 	}
-
 	return bits;
 }
 
@@ -90,7 +88,6 @@ int co(double slope,double *x1,double *y1,double *x2,double *y2)
 		}
 	}
 
-
 	if(*x1>x_max)
 	{
 		*x1=x_max;
@@ -103,6 +100,5 @@ int co(double slope,double *x1,double *y1,double *x2,double *y2)
 		y1=*y2-slope(*x2-*x1);
 		}
 	}
-
 	return 0;
 }
