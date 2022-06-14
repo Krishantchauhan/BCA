@@ -21,7 +21,6 @@ int main()
 
 	if((bit1|bit2) == 0)
 		outtextxy(200,200, "VISIBLE");
-
 	else
   {
 	if((bit1&bit2) != 0)

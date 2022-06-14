@@ -27,7 +27,5 @@ void floodfillalgo(int x,int y,int oldcolor,int fillcolor)
 		floodfillalgo(x,y+1,oldcolor,fillcolor);
 		floodfillalgo(x+1,y,oldcolor,fillcolor);
 		floodfillalgo(x-1,y,oldcolor,fillcolor);
-
-
 	}
 }
