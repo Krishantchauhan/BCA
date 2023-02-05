@@ -1,7 +1,7 @@
 // Name:Krishant Chauhan
 // course:BCA 2A
 // Class Roll no.:-29
-// Doubly Single Linked List Program
+// Single Linked List Program
 #include <stdio.h>
 #include <stdlib.h>
 void append();

@@ -101,8 +101,8 @@ int main() {
 	// your code goes here
 	node* head=NULL;
 	head = new node(10);
-	head->next = new node(20);
-	head->next->next = new node(30);
+	// head->next = new node(20);
+	// head->next->next = new node(30);
 	
 // // 	disp(head);
 
@@ -114,17 +114,17 @@ int main() {
 // // 	size(head);
 	
 	// delbeg(head);
-	// disp(head);
+	disp(head);
 	
-	// delend(head);
+	delend(head);
 	disp(head);
 	
 // // 	size(head);
     int s;
     s=size(head);
     
-    insertpos(head,3,22,s);
-    disp(head);
+    // insertpos(head,3,22,s);
+    // disp(head);
 	
 	return 0;
 }
