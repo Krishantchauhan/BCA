@@ -9,7 +9,7 @@ struct node{
         next=NULL;
     }
 };
-
+node* head=NULL;
 void disp(node* head){
     while(head!= NULL)
     {
@@ -97,27 +97,45 @@ void insertpos(node* &head,int pos,int x,int count){
     }    
 }
 
+void append(int x){
+    node* newnode = new node(x); 
+    if(head==NULL)
+        head=newnode;
+    else{
+        node* temp=head;
+        while(temp->next!=NULL)
+            temp=temp->next;
+        temp->next=newnode;
+    }
+    disp(head);
+}
+// 1 2 3 4 
 int main() {
 	// your code goes here
-	node* head=NULL;
-	head = new node(10);
+	// node* head=NULL;
+    append(10);
+    append(20);
+    append(30);
+    // append(40);
+    // append(50);
+
 	// head->next = new node(20);
 	// head->next->next = new node(30);
 	
 // // 	disp(head);
 
-	// insertbeg(head,5);
-	// disp(head);
+	insertbeg(head,5);
+	disp(head);
 
 	// end(head,15);
 	// disp(head);
 // // 	size(head);
 	
 	// delbeg(head);
-	disp(head);
+	// disp(head);
 	
-	delend(head);
-	disp(head);
+	// delend(head);
+	// disp(head);
 	
 // // 	size(head);
     int s;
